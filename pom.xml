@@ -39,7 +39,7 @@
                 <executions>
 
                     <execution>
-                        <id>prepare-agent-123</id>
+                        <id>prepare-agent-001</id>
                         <goals>
                             <goal>prepare-agent</goal>
                         </goals>
@@ -47,7 +47,7 @@
 
 
                     <execution>
-                        <id>report-1445</id>
+                        <id>report-0011</id>
                         <phase>verify</phase>
                         <goals>
                             <goal>report</goal>
